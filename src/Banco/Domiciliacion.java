@@ -4,7 +4,7 @@ public class Domiciliacion {
     private int n_dom;
     private String concepto;
     private double cantidad;
-
+    //Falta la Cuenta Corriente
     public Domiciliacion(int n_dom, String concepto, double cantidad) {
         this.n_dom = n_dom;
         this.concepto = concepto;
